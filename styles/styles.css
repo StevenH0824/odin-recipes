@@ -1,0 +1,53 @@
+h1 {
+    font-family: 'Times New Roman', Times, sans-serif;
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+p {
+    font-family: 'Times New Roman', Times, sans-serif;
+    text-align: justify;
+}
+
+.list {
+    background-color: rgba(157, 157, 172, 0.9);
+}
+
+
+.steps,
+.ingredients {
+    background-color: lightslategray;
+    font-size:16px;
+    font-family: 'Times New Roman', Times, sans-serif;
+    text-align: justify;
+}
+
+.avatar {
+    height: 300px;
+    width: auto;
+}
+
+
+.ingredients {
+    color: white;
+}
+
+.steps{
+    color: lightblue;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+/* If I ever need to make the headers more specific with more declarations.
+.ingredients.header {
+    
+}
+
+.steps.header {
+    
+}
+*/
